@@ -4,5 +4,14 @@ body {
 }
 
 p {
-  color: brown;
+  color: rgb(253, 253, 253);
+}
+
+img {
+  display: block;
+  width: 30%;
+  margin: 0 auto;
+  padding: 20px;
+  border: #FFE05D solid 5px;
+  border-radius: 50%;
 }
